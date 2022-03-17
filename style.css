@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600&display=swap');
+*
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #c5bc19;
+background-image: linear-gradient(0deg, #c5bc19 11%, #0a8ed8 87%);
+
+}
+
+#Field {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0 auto;
+    
+
+}
